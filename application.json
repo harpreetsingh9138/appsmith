@@ -1,0 +1,46 @@
+{
+  "isAutoUpdate": false,
+  "name": "harman",
+  "pages": [
+    {
+      "id": "Page1",
+      "isDefault": true
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "unpublishedApplicationDetail": {
+    "navigationSetting": {
+      "showNavbar": true,
+      "showSignIn": true,
+      "_id": "671a8c66c878f59f77ab5c3c"
+    },
+    "themeSetting": {
+      "sizing": 1,
+      "density": 1,
+      "appMaxWidth": "LARGE",
+      "_id": "671a8c66c878f59f77ab5c3d"
+    }
+  },
+  "color": "#E4D8CC",
+  "icon": "shopper",
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "lastEditedAt": "2024-10-24T18:03:19.499Z",
+  "collapseInvisibleWidgets": true,
+  "applicationDetail": {
+    "navigationSetting": {
+      "showNavbar": true,
+      "showSignIn": true,
+      "_id": "671a8c66c878f59f77ab5c3f"
+    },
+    "themeSetting": {
+      "sizing": 1,
+      "density": 1,
+      "appMaxWidth": "LARGE",
+      "_id": "671a8c66c878f59f77ab5c40"
+    },
+    "_id": "671a8c66c878f59f77ab5c41"
+  }
+}

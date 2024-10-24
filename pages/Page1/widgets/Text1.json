@@ -1,0 +1,52 @@
+{
+  "needsErrorInfo": false,
+  "mobileBottomRow": 16,
+  "widgetName": "Text1",
+  "topRow": 12,
+  "bottomRow": 16,
+  "parentRowSpace": 10,
+  "type": "TEXT_WIDGET",
+  "mobileRightColumn": 50,
+  "animateLoading": true,
+  "overflow": "NONE",
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "parentColumnSpace": 3.703125,
+  "leftColumn": 34,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "fontFamily"
+    },
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "text"
+    }
+  ],
+  "shouldTruncate": false,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "text": "Hello {{appsmith.user.name || appsmith.user.email}}",
+  "key": "9e5lxvpn32",
+  "rightColumn": 50,
+  "textAlign": "LEFT",
+  "dynamicHeight": "AUTO_HEIGHT",
+  "widgetId": "component-rzot2wz564",
+  "minWidth": 450,
+  "isVisible": true,
+  "fontStyle": "BOLD",
+  "textColor": "#231F20",
+  "version": 1,
+  "parentId": "0",
+  "renderMode": "CANVAS",
+  "isLoading": false,
+  "mobileTopRow": 12,
+  "responsiveBehavior": "fill",
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "mobileLeftColumn": 34,
+  "maxDynamicHeight": 9000,
+  "fontSize": "1rem",
+  "minDynamicHeight": 4
+}
